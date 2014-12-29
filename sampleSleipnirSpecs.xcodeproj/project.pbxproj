@@ -480,6 +480,7 @@
 				72B1055B1A5130A4001C73A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72B105B61A513B9F001C73A2 /* Build configuration list for PBXNativeTarget "sampleSleipnirSpecsTest" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +489,7 @@
 				72B105B81A513B9F001C73A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
